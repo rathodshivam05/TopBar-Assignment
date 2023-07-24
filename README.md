@@ -16,4 +16,4 @@ Create an engaging "About" page for TopBar Company, comprising a Hero Section wi
 <img width="100%" alt="gbj-buzz-homepage" src="https://github.com/123bhagesh/topbar-company-assignment/assets/99644302/430ed426-c6c5-4353-9a61-4e1eda6ce8f7">
 
   ## Live Link:
-   <a href="https://trupti-treats-frontend-main-eight.vercel.app/"> Go Live </a>
+   <a href="https://trupti-treats-frontend-main-sigma.vercel.app/about"> Live Link</a>
