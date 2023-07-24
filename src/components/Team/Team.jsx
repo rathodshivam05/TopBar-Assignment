@@ -3,7 +3,7 @@ import './Team.scss';
 import t1 from '../../assets/images/t1.png';
 import t2 from '../../assets/images/t2.png';
 import t3 from '../../assets/images/t3.png';
-import Linkedin from '../../assets/icons/Linkedin.png';
+import Linkedin from '../../assets/icons/LinkedIn.png';
 import Twitter from '../../assets/icons/Twitter.png';
 import Dribble from '../../assets/icons/Dribble.png';
 import LeftIcon from '../../assets/icons/LeftIcon.png';
